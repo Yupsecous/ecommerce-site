@@ -79,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-    git clone https://github.com/AliRezaBmeDu/ecommerce-site.git
+    git clone https://github.com/Yupsecous/ecommerce-site.git
 ```
 
 ### Install
@@ -115,11 +115,10 @@ Then go to the 'http://localhost:3000/' to get started
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mohammad Ali Reza**
+👤 **Yupsecous**
 
-- GitHub: [@githubhandle](https://github.com/AliRezaBmeDu)
-- Twitter: [@twitterhandle](https://twitter.com/share_insider)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-ali-reza-25686428b/)
+- GitHub: [@githubhandle](https://github.com/Yupsecous)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +131,7 @@ Then go to the 'http://localhost:3000/' to get started
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/RicardoEgas/ecommerce-site/issues).
+Feel free to check the [issues page](https://github.com/Yupsecous/ecommerce-site/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
